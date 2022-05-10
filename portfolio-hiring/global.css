@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @media screen and (max-width: 620px){
+    section {
+      flex-direction: column;
+    }
+} */
+
+.active {
+  display: none;
+}
+
+.rotate {
+  transform: rotate(90deg);
+}
+
+.fade-in {
+	animation: fadeIn 2s;
+  opacity: 1;
+}
+
+@keyframes fadeIn {
+  from {
+  	opacity: 0;
+  }
+  to {
+ 	opacity: 1;
+  }
+}
+
