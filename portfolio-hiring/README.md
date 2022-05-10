@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="#-Objetivo"> ✨ Portfólio </a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-Design"> ⌨ Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Desafios"> 🤳 Mobile Preview </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Desafios"> ✅ Implementações </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Portfólio"> Portfólio </a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-Tecnologias"> Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Mobile-Preview"> Mobile Preview </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Implementações"> Implementações </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
  <p align="center">
