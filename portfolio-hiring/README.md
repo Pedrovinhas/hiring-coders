@@ -22,8 +22,8 @@ Resolvi criar o meu primeiro portfólio unindo os conhecimentos da NLW Return e 
 ## ⌨ Tecnologias
 - HTML5
 - TailwindCSS
-- Javascript
-- Fontawesome Icons
+- JavaScript
+- FontAwesome Icons
 - CDN Fonts
 
 ## 🤳 Mobile preview
@@ -35,6 +35,8 @@ Resolvi criar o meu primeiro portfólio unindo os conhecimentos da NLW Return e 
 ## Implementações
 - [ ] Type Animation
 - [ ] Responsivo para telas `2xl`
+- [X] Acessibilidade
+- [ ] Animation ao entrar na página
 
 --- 
 

@@ -6,3 +6,12 @@ aboutMe.addEventListener('click', () => {
     description.classList.toggle('fade-in')
     aboutMe.classList.toggle('rotate')
 })
+
+aboutMe.addEventListener('keypress', (e) => {
+    if (e.keyCode === 13) {
+        description.classList.toggle('active')
+        description.classList.toggle('fade-in')
+        aboutMe.classList.toggle('rotate')
+    }
+
+})
