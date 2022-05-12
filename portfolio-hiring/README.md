@@ -17,7 +17,7 @@
 
 
 ## ✨ Portfólio
-Resolvi criar o meu primeiro portfólio unindo os conhecimentos da NLW Return e da semana de aquecimento do projeto Hiring Coders. 
+Portfólio criado durante a semana de Aquecimento da Hiring Coders, unindo os conhecimentos da NLW Return. Nele coloquei tecnologias que tenho familiaridade, uma breve descrição minha, e links que direcionam para redes, como Linkedin e Github. Trouxe também para página acessibilidade pela navegação com o tab, e eventos de teclado.
 
 ## ⌨ Tecnologias
 - HTML5
