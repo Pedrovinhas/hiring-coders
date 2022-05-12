@@ -554,8 +554,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 268px;
 }
 
-.w-\[50px\] {
-  width: 50px;
+.w-\[200px\] {
+  width: 200px;
 }
 
 .w-\[60px\] {
