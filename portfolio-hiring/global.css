@@ -2,12 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @media screen and (max-width: 620px){
-    section {
-      flex-direction: column;
-    }
-} */
-
 .active {
   display: none;
 }
@@ -17,16 +11,39 @@
 }
 
 .fade-in {
-	animation: fadeIn 2s;
+  animation: fadeIn 2s;
   opacity: 1;
+}
+
+.type-letters {
+  overflow: hidden;
+  white-space: nowrap;
+
+  animation: typing 2.5s steps(150), blink-caret 0.75s step-end infinite;
 }
 
 @keyframes fadeIn {
   from {
-  	opacity: 0;
+    opacity: 0;
   }
   to {
- 	opacity: 1;
+    opacity: 1;
   }
 }
 
+@keyframes typing {
+  from {
+    width: 0;
+  }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #f1f1f1;
+  }
+}
