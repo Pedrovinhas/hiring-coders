@@ -468,6 +468,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-backdrop-sepia:  ;
 }
 
+.invisible {
+  visibility: hidden;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -970,8 +974,8 @@ Ensure the default browser behavior of the `hidden` attribute.
 .type-letters {
   overflow: hidden;
   white-space: nowrap;
-  -webkit-animation: typing 2.5s steps(150), blink-caret 0.75s step-end infinite;
-          animation: typing 2.5s steps(150), blink-caret 0.75s step-end infinite;
+  -webkit-animation: typing 4.5s steps(150);
+          animation: typing 4.5s steps(150);
 }
 
 @keyframes fadeIn {
@@ -993,30 +997,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 @keyframes typing {
   from {
     width: 0;
-  }
-}
-
-/* The typewriter cursor effect */
-
-@-webkit-keyframes blink-caret {
-  from,
-  to {
-    border-color: transparent;
-  }
-
-  50% {
-    border-color: #f1f1f1;
-  }
-}
-
-@keyframes blink-caret {
-  from,
-  to {
-    border-color: transparent;
-  }
-
-  50% {
-    border-color: #f1f1f1;
   }
 }
 
