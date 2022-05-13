@@ -8,6 +8,7 @@
   <a href="#-Tecnologias"> Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Mobile-Preview"> Mobile Preview </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Implementações"> Implementações </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Licença"> Licença </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
  <p align="center">
@@ -19,12 +20,13 @@
 ## ✨ Portfólio
 Portfólio criado durante a semana de Aquecimento da Hiring Coders, unindo os conhecimentos da NLW Return. Nele coloquei tecnologias que tenho familiaridade, uma breve descrição minha, e links que direcionam para redes, como Linkedin e Github. Trouxe também para página acessibilidade pela navegação com o tab, e eventos de teclado.
 
+Você pode consultar o Deploy da aplicação através desse [link](https://portfolio-pedrovinhas.vercel.app/)
+
 ## ⌨ Tecnologias
-- HTML5
-- TailwindCSS
-- JavaScript
-- FontAwesome Icons
-- CDN Fonts
+- [HTML5](https://www.w3schools.com/html/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [FontAwesome Icons](https://fontawesome.com/)
 
 ## 🤳 Mobile preview
 
@@ -32,11 +34,14 @@ Portfólio criado durante a semana de Aquecimento da Hiring Coders, unindo os co
 <img width='320px'  src="./.github/Mobile.png">
 </div>
 
-## Implementações
-- [ ] Type Animation
+## 🔨 Implementações
+- [X] Type Animation
 - [ ] Responsivo para telas `2xl`
 - [X] Acessibilidade
-- [ ] Animation ao entrar na página
+- [X] Animation ao entrar na página
+
+## 📝 Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
 
 --- 
 
