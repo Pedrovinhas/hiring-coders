@@ -12,7 +12,7 @@
 O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar programadores para atuarem como **Full-Stack** voltados ao **e-commerce**. Ele é criado pela VTEX e acelerado pela Gama Academy e é composto de 3 etapas.
 
 #### **Primeira Etapa**
-
+📅 **26/04 - 09/06**
 - Treinamento feito FullStack pela GamaAcademy passando por módulos de Soft Skills, Lógica de Programação, HTML, CSS, JavaScript, React, GraphQL e construção de API com NodeJS.
 
 #### **Segunda Etapa**
@@ -48,7 +48,7 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | [Javascript Básico](./1-Internet.md) |   ✅ | - Introdução ao Javascript e Variáveis <br> - Números e operadores <br> - Boas práticas em Javascript <br> - Condicionais <br> - Estrutura de Repetição: While |
 | [Javascript Básico - Prática](./1-Internet.md) |  ✅   | - Desafio: Validador de CPF |
 | [Javascript Intermediário ](./1-Internet.md) |  ✅   | - Template String <br> - Operador Ternário e Arrow Functions <br> - Operador Spread <br> - Desctruct e Match <br> - SPA, PWA e WebComponents |
-| [Introdução ao Typescript ](./1-Internet.md) |  ✅ | - Introdução <br> - Tipos Básicos I <br> - Tipos Básicos II <br> - Múltiplos tipos com Union Types <br> - Orientação de Objetos I <br> - Orientação de Objetos I |
+| [Introdução ao Typescript ](./1-Internet.md) |  ✅ | - Introdução <br> - Tipos Básicos I <br> - Tipos Básicos II <br> - Múltiplos tipos com Union Types <br> - Orientação de Objetos I <br> - Orientação de Objetos II |
 
 ### **Mentoria**
 
@@ -57,7 +57,7 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | [Mentoria 1 - 04/05](https://www.youtube.com/watch?v=_e0ED3IsAe0&ab_channel=HiringCoders) |  ✅   |  Introdução a tags HTML <br> Comentários <br>   CSS interno (`<style>`) e  externo <br> Classes em CSS <br> Criação de formulários (`form, label, input`) <br> Lógica de Programação e Algoritmo| 
 | [Mentoria 2 - 06/05](https://www.youtube.com/watch?v=HejxKobIhSg&ab_channel=HiringCoders) |  ✅   |  Atributos input e label <br> Bootstrap e Responsividade <br> Git e Github <br> Versionamento de Código| 
 | [Mentoria 3 - 11/05](https://www.youtube.com/watch?v=R-dq9QHu91A&ab_channel=HiringCoders) |  ✅   | Introdução ao JavaScript <br> Função no JavaScript <br> Validação de formulário com JavaScript <br> Manipulação da DOM <br> Configurando o Git <br> Subindo o primeiro repositório <br> Primeiro Commit | 
-| [Mentoria 3 - 13/05](https://www.youtube.com/watch?v=S13f3RJIGkc&ab_channel=HiringCoders) |  ✅   | Usando a tag `<script>` <br> Estruturas de Repetição <br> Manipulação da DOM (`innerHTML, querySelector, textContent`)  <br> Object Date (` new Date, getHours...`) <br> Funções assíncronas (`SetInterval`) <br> Instalando o NodeJS <br> Rodando arquivo JS com o Node (`node Arquivo.js`)| 
+| [Mentoria 4 - 13/05](https://www.youtube.com/watch?v=S13f3RJIGkc&ab_channel=HiringCoders) |  ✅   | Usando a tag `<script>` <br> Estruturas de Repetição <br> Manipulação da DOM (`innerHTML, querySelector, textContent`)  <br> Object Date (` new Date, getHours...`) <br> Funções assíncronas (`SetInterval`) <br> Instalando o NodeJS <br> Rodando arquivo JS com o Node (`node Arquivo.js`)| 
 
 
 --- 
