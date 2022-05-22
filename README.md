@@ -28,10 +28,11 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&color=ff7f00&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-05122A?style=for-the-badge&logo=css3&color=2C9BD2&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=EAD41C&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=007acc&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=007acc&logoColor=white) <br>
 ![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react&color=1C1C1C)
 ![Styled Components](https://img.shields.io/badge/-Styled%20components-05122A?style=for-the-badge&logo=styled-components&color=1f1f1f)
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=97CA00&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-graphql-05122A?style=for-the-badge&logo=graphql&color=1f1f1f&logoColor=e535ab)
 
 
 <h2> <img width="24px" src="./.github/notion.svg"> &nbspAnotações  </h2>
