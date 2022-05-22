@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" id='top'>
     <img src="./.github/HC-hands-up.png">
     <h2 align="center"> Hiring Coders #3 </h2>
 </p>
@@ -25,17 +25,19 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 
 <h2> <img width="24px" src="./.github/notion.svg"> &nbspAnotações  </h2>
 
+<p> Clicando nos links você terá acesso às anotações feitas no Notion e será redirecionado ao PDF aqui no Github </p>
+
 ### **Aquecimento**
 
 | 📚 Conteúdo      |  🤔 Status |
 | ---------- | :-----: |
-| [HTML](./1-Internet.md) |  ✅   |
-| [CSS](./1-Internet.md) |  ✅   |
-| [Estrutura de Dados](./1-Internet.md) |  ✅   |
-| [Metodologias Ágeis](./1-Internet.md) |  ✅   |
-| [Testes](./1-Internet.md) |  ✅   |
-| [Boas Práticas](./1-Internet.md) |  ✅   |
-| [Soft Skills](./1-Internet.md) |  ✅   |
+| [HTML](./materiais-em-pdf/1-HTML5.pdf) |  ✅   |
+| [CSS](./) |  ✅   |
+| [Estrutura de Dados](./materiais-em-pdf/3-Estrutura-de-dados.pdf) |  ✅   |
+| [Metodologias Ágeis](./materiais-em-pdf/4-Metodologias-Ageis.pdf) |  ✅   |
+| [Testes](./) |  ✅   |
+| [Boas Práticas](./materiais-em-pdf/5-Boas-praticas.pdf) |  ✅   |
+| [Soft Skills](./materiais-em-pdf/6-Soft-Skills.pdf) |  ✅   |
 
 ### **Módulos**
 
