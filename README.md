@@ -23,6 +23,17 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 
 - Participação do Hackathon envolendo equipes e dinâmicas em grupos.
 
+## 🧪 Tecnologias
+
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&color=ff7f00&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-05122A?style=for-the-badge&logo=css3&color=2C9BD2&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=EAD41C&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=007acc&logoColor=white)
+![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react&color=1C1C1C)
+![Styled Components](https://img.shields.io/badge/-Styled%20components-05122A?style=for-the-badge&logo=styled-components&color=1f1f1f)
+![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=97CA00&logoColor=white)
+
+
 <h2> <img width="24px" src="./.github/notion.svg"> &nbspAnotações  </h2>
 
 <p> Clicando nos links você terá acesso às anotações feitas no Notion e será redirecionado ao PDF aqui no Github </p>
@@ -47,11 +58,12 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | [Lógica de Programação](./materiais-em-pdf/Semana-1-Logica-de-Programacao.pdf) |  ✅   | - Algoritmos <br> - Variáveis e Operações <br> - Decisões <br> - Repetições
 | [Git](./materiais-em-pdf/Semana-1-Git.pdf) |  ✅   | - Apresentação e introdução ao tema <br> - Instalação e comando básicos <br> - Github e Repositório remoto <br> - Branch e Merge <br> - Fork, Pull Request e Github Pages|
 | **📅 Semana 2** |  **🤔 Status**   |  **📦 Tópicos** |
-| [Javascript Básico](./1-Internet.md) |   ✅ | - Introdução ao Javascript e Variáveis <br> - Números e operadores <br> - Boas práticas em Javascript <br> - Condicionais <br> - Estrutura de Repetição: While |
-| [Javascript Básico - Prática](./1-Internet.md) |  ✅   | - Desafio: Validador de CPF |
-| [Javascript Intermediário ](./1-Internet.md) |  ✅   | - Template String <br> - Operador Ternário e Arrow Functions <br> - Operador Spread <br> - Desctruct e Match <br> - SPA, PWA e WebComponents |
-| [Introdução ao Typescript ](./1-Internet.md) |  ✅ | - Introdução <br> - Tipos Básicos I <br> - Tipos Básicos II <br> - Múltiplos tipos com Union Types <br> - Orientação de Objetos I <br> - Orientação de Objetos II |
-
+| [JavaScript Básico](./materiais-em-pdf/Semana-2-JavaScript-Basico.pdf) |   ✅ | - Introdução ao Javascript e Variáveis <br> - Números e operadores <br> - Boas práticas em Javascript <br> - Condicionais <br> - Estrutura de Repetição: While |
+| [JavaScript Básico - Prática](./materiais-em-pdf/Semana-2-JavaScript-Basico-Pratica.pdf) |  ✅   | - Desafio: Validador de CPF |
+| [JavaScript Intermediário ](./materiais-em-pdf/Semana-2-JavaScript-Intermedirio.pdf) |  ✅   | - Template String <br> - Operador Ternário e Arrow Functions <br> - Operador Spread <br> - Desctruct e Match <br> - SPA, PWA e WebComponents |
+| [Introdução ao TypeScript ](./materiais-em-pdf/Semana-2-Introducao-ao-TypeScript.pdf) |  ✅ | - Introdução <br> - Tipos Básicos I <br> - Tipos Básicos II <br> - Múltiplos tipos com Union Types <br> - Orientação de Objetos I <br> - Orientação de Objetos II |
+| **📅 Semana 3** |  **🤔 Status**   |  **📦 Tópicos** |
+| [React Básico](./materiais-em-pdf/Semana-3-React-Basico.pdf) |  ✅ | - Boas Vindas <br> - Por que React? <br> - Preparando o Ambiente <br> - Fundamentos do React <br> - Consumindo dados de uma API <br> - Instalando e configurando react-router-dom <br> Importando as rotas no componente App |
 ### **Mentoria**
 
 | 🎯 Mentoria      | 🤔 Status | 📦 Tópicos |
