@@ -39,6 +39,13 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 
 <p> Clicando nos links você terá acesso às anotações feitas no Notion e será redirecionado ao PDF aqui no Github </p>
 
+### **Projetos**
+
+| 💻 Projeto      | 📅 Semana |
+| ---------- | :-----: |
+| [Portfólio](./portfolio-hiring/) |  Aquecimento |
+| [CPF Validator](./cpf-validator//) |  Semana 2 |
+
 ### **Aquecimento**
 
 | 📚 Conteúdo      |  🤔 Status |
