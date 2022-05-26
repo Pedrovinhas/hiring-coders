@@ -1,0 +1,21 @@
+{
+  "name": "pratica-typescript",
+  "version": "1.0.0",
+  "description": "projeto de pratica com typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "crud",
+    "node"
+  ],
+  "author": "pedro h vinhas",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^17.0.35",
+    "query-string": "^7.1.1",
+    "typescript": "^4.7.2"
+  }
+}

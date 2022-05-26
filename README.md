@@ -44,34 +44,35 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 | 💻 Projeto      | 📅 Semana |
 | ---------- | :-----: |
 | [Portfólio](./portfolio-hiring/) |  Aquecimento |
-| [CPF Validator](./cpf-validator//) |  Semana 2 |
+| [CPF Validator](./projetos/semana-2/cpf-validator) |  Semana 2 |
+| [NodeJS CRUD](./projetos/semana-4/pratica-typescript) |  Semana 4 |
 
 ### **Aquecimento**
 
 | 📚 Conteúdo      |  🤔 Status |
 | ---------- | :-----: |
-| [HTML](./materiais-em-pdf/1-HTML5.pdf) |  ✅   |
+| [HTML](./materiais-em-pdf/aquecimento/1-HTML5.pdf) |  ✅   |
 | [CSS](./) |  ✅   |
-| [Estrutura de Dados](./materiais-em-pdf/3-Estrutura-de-dados.pdf) |  ✅   |
-| [Metodologias Ágeis](./materiais-em-pdf/4-Metodologias-Ageis.pdf) |  ✅   |
+| [Estrutura de Dados](./materiais-em-pdf/aquecimento/3-Estrutura-de-dados.pdf) |  ✅   |
+| [Metodologias Ágeis](./materiais-em-pdf/aquecimento/4-Metodologias-Ageis.pdf) |  ✅   |
 | [Testes](./) |  ✅   |
-| [Boas Práticas](./materiais-em-pdf/5-Boas-praticas.pdf) |  ✅   |
-| [Soft Skills](./materiais-em-pdf/6-Soft-Skills.pdf) |  ✅   |
+| [Boas Práticas](./materiais-em-pdf/aquecimento/5-Boas-praticas.pdf) |  ✅   |
+| [Soft Skills](./materiais-em-pdf/aquecimento/6-Soft-Skills.pdf) |  ✅   |
 
 ### **Módulos**
 
 | 📅 Semana 1      | 🤔 Status | 📦 Tópicos |
 | :----------: | :-----: | :------: |
-| [Introdução ao mundo do desenvolvimento](./materiais-em-pdf/Semana-1-Introducao-ao-mundo-do-desenvolvimento.pdf) |  ✅   | - O que é Programação <br> - Dados do mercado <br> - Linguagens, frameworks e bibliotecas <br> - Editores de textos |
-| [Lógica de Programação](./materiais-em-pdf/Semana-1-Logica-de-Programacao.pdf) |  ✅   | - Algoritmos <br> - Variáveis e Operações <br> - Decisões <br> - Repetições
-| [Git](./materiais-em-pdf/Semana-1-Git.pdf) |  ✅   | - Apresentação e introdução ao tema <br> - Instalação e comando básicos <br> - Github e Repositório remoto <br> - Branch e Merge <br> - Fork, Pull Request e Github Pages|
+| [Introdução ao mundo do desenvolvimento](./materiais-em-pdf/semana-1/Semana-1-Introducao-ao-mundo-do-desenvolvimento.pdf) |  ✅   | - O que é Programação <br> - Dados do mercado <br> - Linguagens, frameworks e bibliotecas <br> - Editores de textos |
+| [Lógica de Programação](./materiais-em-pdf/semana-1/Semana-1-Logica-de-Programacao.pdf) |  ✅   | - Algoritmos <br> - Variáveis e Operações <br> - Decisões <br> - Repetições
+| [Git](./materiais-em-pdf/semana-1/Semana-1-Git.pdf) |  ✅   | - Apresentação e introdução ao tema <br> - Instalação e comando básicos <br> - Github e Repositório remoto <br> - Branch e Merge <br> - Fork, Pull Request e Github Pages|
 | **📅 Semana 2** |  **🤔 Status**   |  **📦 Tópicos** |
-| [JavaScript Básico](./materiais-em-pdf/Semana-2-JavaScript-Basico.pdf) |   ✅ | - Introdução ao Javascript e Variáveis <br> - Números e operadores <br> - Boas práticas em Javascript <br> - Condicionais <br> - Estrutura de Repetição: While |
-| [JavaScript Básico - Prática](./materiais-em-pdf/Semana-2-JavaScript-Basico-Pratica.pdf) |  ✅   | - Desafio: Validador de CPF |
-| [JavaScript Intermediário ](./materiais-em-pdf/Semana-2-JavaScript-Intermedirio.pdf) |  ✅   | - Template String <br> - Operador Ternário e Arrow Functions <br> - Operador Spread <br> - Desctruct e Match <br> - SPA, PWA e WebComponents |
-| [Introdução ao TypeScript ](./materiais-em-pdf/Semana-2-Introducao-ao-TypeScript.pdf) |  ✅ | - Introdução <br> - Tipos Básicos I <br> - Tipos Básicos II <br> - Múltiplos tipos com Union Types <br> - Orientação de Objetos I <br> - Orientação de Objetos II |
+| [JavaScript Básico](./materiais-em-pdf/semana-2/Semana-2-JavaScript-Basico.pdf) |   ✅ | - Introdução ao Javascript e Variáveis <br> - Números e operadores <br> - Boas práticas em Javascript <br> - Condicionais <br> - Estrutura de Repetição: While |
+| [JavaScript Básico - Prática](./materiais-em-pdf/semana-2/Semana-2-JavaScript-Basico-Pratica.pdf) |  ✅   | - Desafio: Validador de CPF |
+| [JavaScript Intermediário ](./materiais-em-pdf/semana-2/Semana-2-JavaScript-Intermedirio.pdf) |  ✅   | - Template String <br> - Operador Ternário e Arrow Functions <br> - Operador Spread <br> - Desctruct e Match <br> - SPA, PWA e WebComponents |
+| [Introdução ao TypeScript ](./materiais-em-pdf/semana-2/Semana-2-Introducao-ao-TypeScript.pdf) |  ✅ | - Introdução <br> - Tipos Básicos I <br> - Tipos Básicos II <br> - Múltiplos tipos com Union Types <br> - Orientação de Objetos I <br> - Orientação de Objetos II |
 | **📅 Semana 3** |  **🤔 Status**   |  **📦 Tópicos** |
-| [React Básico](./materiais-em-pdf/Semana-3-React-Basico.pdf) |  ✅ | - Boas Vindas <br> - Por que React? <br> - Preparando o Ambiente <br> - Fundamentos do React <br> - Consumindo dados de uma API <br> - Instalando e configurando react-router-dom <br> Importando as rotas no componente App |
+| [React Básico](./materiais-em-pdf/semana-3/Semana-3-React-Basico.pdf) |  ✅ | - Boas Vindas <br> - Por que React? <br> - Preparando o Ambiente <br> - Fundamentos do React <br> - Consumindo dados de uma API <br> - Instalando e configurando react-router-dom <br> Importando as rotas no componente App |
 ### **Mentoria**
 
 | 🎯 Mentoria      | 🤔 Status | 📦 Tópicos |
