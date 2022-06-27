@@ -11,15 +11,15 @@
 
 O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar programadores para atuarem como **Full-Stack** voltados ao **e-commerce**. Ele é criado pela VTEX e acelerado pela Gama Academy e é composto de 3 etapas.
 
-#### **Primeira Etapa**
+#### **Primeira Fase**
 📅 **26/04 - 09/06**
 - Treinamento feito FullStack pela GamaAcademy passando por módulos de Soft Skills, Lógica de Programação, HTML, CSS, JavaScript, React, GraphQL e construção de API com NodeJS.
 
-#### **Segunda Etapa**
+#### **Segunda Fase**
 
 - Treinamento com o Framework de e-commerce **VTEX-IO** e AWS Academy.
 
-#### **Terceira Etapa**
+#### **Terceira Fase**
 
 - Participação do Hackathon envolendo equipes e dinâmicas em grupos.
 
@@ -27,12 +27,14 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&color=ff7f00&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-05122A?style=for-the-badge&logo=css3&color=2C9BD2&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=EAD41C&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=007acc&logoColor=white) <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&color=EAD41C&logoColor=black) <br>
+![TypeScript](https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript&color=007acc&logoColor=white) 
 ![React](https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react&color=1C1C1C)
 ![Styled Components](https://img.shields.io/badge/-Styled%20components-05122A?style=for-the-badge&logo=styled-components&color=1f1f1f)
-![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=97CA00&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=97CA00&logoColor=white) <br>
 ![GraphQL](https://img.shields.io/badge/-graphql-05122A?style=for-the-badge&logo=graphql&color=1f1f1f&logoColor=e535ab)
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=next.js&color=1f1f1f&logoColor=f1f1f1)
+![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=for-the-badge&logo=gatsby&color=1f1f1f&logoColor=6B4495)
 
 
 <h2> <img width="24px" src="./.github/notion.svg"> &nbspAnotações  </h2>
