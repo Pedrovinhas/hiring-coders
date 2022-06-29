@@ -34,7 +34,9 @@ O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar progra
 ![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=97CA00&logoColor=white) <br>
 ![GraphQL](https://img.shields.io/badge/-graphql-05122A?style=for-the-badge&logo=graphql&color=1f1f1f&logoColor=e535ab)
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=for-the-badge&logo=next.js&color=1f1f1f&logoColor=f1f1f1)
-![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=for-the-badge&logo=gatsby&color=1f1f1f&logoColor=6B4495)
+![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=for-the-badge&logo=gatsby&color=1f1f1f&logoColor=6B4495) <br>
+![VTEX IO](https://img.shields.io/badge/-vtexio-05122A?style=for-the-badge&logo=vtex&color=F20383&logoColor=fff)
+![Aws](https://img.shields.io/badge/-AWS-05122A?style=for-the-badge&logo=amazon-aws&color=163454&logoColor=ED9426)
 
 
 <h2> <img width="24px" src="./.github/notion.svg"> &nbspAnotações  </h2>
