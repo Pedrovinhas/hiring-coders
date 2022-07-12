@@ -9,7 +9,7 @@
 
 ## ✏ Sobre o Hiring Coders
 
-O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar programadores para atuarem como **Full-Stack** voltados ao **e-commerce**. Ele é criado pela VTEX e acelerado pela Gama Academy e é composto de 3 etapas.
+O Hiring Coders é um bootcamp focado em desenvolver pessoas, e capacitar programadores para atuarem como **Full-Stack** voltados ao **e-commerce**. Ele é criado pela VTEX e acelerado pela Gama Academy, sendo composto de 4 fases.
 
 #### **Primeira Fase**
 📅 **26/04 - 09/06**
